@@ -19,9 +19,12 @@ It utilizes the Leaflet JavaScript library to display maps, and stores the data 
 
 ![Mapty-flowchart](https://user-images.githubusercontent.com/56386562/220245255-e1feb01e-dc71-429e-bfc4-4a3a414ccbe2.png)
 
-##DEMO
+## DEMO
 
 https://www.awesomescreenshot.com/video/14982578?key=364308cd47e630e57317198a9fd8b505
+
+![Screenshot from 2023-02-21 10-03-06](https://user-images.githubusercontent.com/56386562/220271834-5ca423a8-b493-4a6f-bb18-14d1cf4bdc9c.png)
+
 
 See what it look like and play around it,  just follow [this  link](https://vercel.com/izzyo/workout-in-js).
 

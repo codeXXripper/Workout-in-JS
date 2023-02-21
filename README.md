@@ -1,8 +1,8 @@
-#  Map Your Workouts  
+#  Map Your Workouts  in Realtime MAP
 Simple javascript website which is built with vanila javascript.
 
 ## Javascript Concepts used in this website
-* OOP
+* OOP concepts
 * Geolocation API
 * Localstorage API
 * JSON methods(stringify and parse)
@@ -11,7 +11,7 @@ Simple javascript website which is built with vanila javascript.
 ### Functions of the system
 
 Users can add their workout locations, whether they were running or cycling, and add additional information about their workout.
-Mapty utilizes the Leaflet JavaScript library to display maps, and stores the data in the local storage of the user.
+It utilizes the Leaflet JavaScript library to display maps, and stores the data in the local storage of the user.
 
 
 
@@ -19,10 +19,11 @@ Mapty utilizes the Leaflet JavaScript library to display maps, and stores the da
 
 ![Mapty-flowchart](https://user-images.githubusercontent.com/56386562/220245255-e1feb01e-dc71-429e-bfc4-4a3a414ccbe2.png)
 
+##DEMO
 
+https://www.awesomescreenshot.com/video/14982578?key=364308cd47e630e57317198a9fd8b505
 
-
-See what it look like and play around it,  just follow [this  link](https://welcome-to-js-bank.onrender.com).
+See what it look like and play around it,  just follow [this  link](https://vercel.com/izzyo/workout-in-js).
 
 
 ### Built With
@@ -39,7 +40,7 @@ To get a local copy up and running follow these simple steps:
 
 1. Clone the repo
 ```sh
-git clone https://github.com/codeXXripper/Bank-System-Sim
+git clone https://github.com/codeXXripper/Workout-in-JS
 ```
 2. Enjoy! 
 <!-- CONTRIBUTING -->
